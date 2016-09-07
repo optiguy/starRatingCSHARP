@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses">
+  <DataContextMoniker Name="/DataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="722d9439-9aff-4261-a54f-a2c4b35643af" absoluteBounds="3.5, 1, 2, 1.5785953776041664">
+      <DataClassMoniker Name="/DataClassesDataContext/Rating" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9faf68a-4d3a-42d4-8074-0da976c06d3d" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a876b829-6675-4c51-9ed6-9e384ecd6f6b" absoluteBounds="0.75, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DataClassesDataContext/Article" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9777634-b9b5-47ec-aeb0-ef820d57c454" absoluteBounds="0.765, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.78929768880208); (3.5 : 1.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesDataContext/Article/Article_Rating" />
+      <nodes>
+        <classShapeMoniker Id="a876b829-6675-4c51-9ed6-9e384ecd6f6b" />
+        <classShapeMoniker Id="722d9439-9aff-4261-a54f-a2c4b35643af" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,6 @@
+c:\users\bbr\Desktop\Sites\StarRating\StarRating\bin\StarRating.dll.config
+c:\users\bbr\Desktop\Sites\StarRating\StarRating\bin\StarRating.dll
+c:\users\bbr\Desktop\Sites\StarRating\StarRating\bin\StarRating.pdb
+c:\users\bbr\Desktop\Sites\StarRating\StarRating\obj\Debug\StarRating.csprojResolveAssemblyReference.cache
+c:\users\bbr\Desktop\Sites\StarRating\StarRating\obj\Debug\StarRating.dll
+c:\users\bbr\Desktop\Sites\StarRating\StarRating\obj\Debug\StarRating.pdb
